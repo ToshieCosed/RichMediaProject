@@ -1,0 +1,63 @@
+﻿<Window x:Class="RichMediaJournal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chat UI" Height="600" Width="1000" Background="#222">
+
+    <Grid>
+        <Grid x:Name="Sidebar" Width="200" Background="#333" HorizontalAlignment="Left">
+            <StackPanel>
+                <Button Content="Toggle Sidebar" Click="ToggleSidebar_Click" />
+
+                <Button Content="Notes" Click="SwitchToNotes_Click" Background="#555" Foreground="White" Margin="5"/>
+                <Button Content="Local" Click="SwitchToLocal_Click" Background="#555" Foreground="White" Margin="5"/>
+
+                <ListBox x:Name="BranchCategoryList" Background="#444" Foreground="White" />
+
+                <Grid Margin="5">
+                    <TextBox x:Name="NewCategoryInput" Width="180" Background="#555" Foreground="White" GotFocus="ClearPlaceholderText" LostFocus="RestorePlaceholderText">Enter category name</TextBox>
+                </Grid>
+                <Button Content="+ Add Category" Click="AddCategory_Click" />
+            </StackPanel>
+        </Grid>
+
+        <Grid x:Name="ChannelPanel" Width="200" Background="#444" HorizontalAlignment="Left" Margin="200,0,0,0">
+            <StackPanel>
+                <TextBlock Text="Channels" Foreground="White" FontSize="14" FontWeight="Bold" Margin="5"/>
+                <ListBox x:Name="ChannelList" Background="#555" Foreground="White" />
+
+                <Grid Margin="5">
+                    <TextBox x:Name="NewChannelInput" Width="180" Background="#666" Foreground="White" GotFocus="ClearPlaceholderText" LostFocus="RestorePlaceholderText">Enter channel name</TextBox>
+                </Grid>
+                <Button Content="+ Add Channel" Click="AddChannel_Click" />
+            </StackPanel>
+        </Grid>
+
+        <Grid Margin="400,0,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" Background="#222" Padding="5">
+                <TextBlock x:Name="ChatTitleBar" Text="Notes #General" Foreground="White" FontSize="16" FontWeight="Bold" TextAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+
+            <ScrollViewer Grid.Row="1" Background="#111">
+                <StackPanel x:Name="ChatHistory"/>
+            </ScrollViewer>
+
+            <Grid Grid.Row="2" Background="#333">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="80"/>
+                </Grid.ColumnDefinitions>
+
+                <Button Content="+" Width="30" Height="30" Margin="5" Click="AttachFile_Click"/>
+                <TextBox x:Name="MessageInput" Grid.Column="1" Margin="5" Background="#555" Foreground="White" KeyDown="MessageInput_KeyDown"/>
+                <Button Content="Send" Grid.Column="2" Width="70" Margin="5" Click="SendMessage_Click"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

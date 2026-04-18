@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|c:\\users\\iquie\\documents\\richmediaproject\\richmediajournal\\richmediajournal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\richmediajournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\richmediajournal\\richmediajournal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\richmediajournal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\RichMediaJournal\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RichMediaJournal\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\RichMediaJournal\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RichMediaJournal\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:01:17.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RichMediaJournal",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\RichMediaJournal\\RichMediaJournal.csproj",
+              "RelativeDocumentMoniker": "RichMediaJournal\\RichMediaJournal.csproj",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\RichMediaJournal\\RichMediaJournal.csproj",
+              "RelativeToolTip": "RichMediaJournal\\RichMediaJournal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T23:01:17.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\RichMediaJournal\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RichMediaJournal\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\RichMediaJournal\\RichMediaJournal\\MainWindow.xaml",
+              "RelativeToolTip": "RichMediaJournal\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T23:01:17.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

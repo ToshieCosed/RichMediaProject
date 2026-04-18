@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\search_icon.png" />
+    <None Remove="Resources\settings_icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HelloBotExample\HelloBotExample.csproj" />
+    <ProjectReference Include="..\ModuleContract\ModuleContract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\search_icon.png" />
+    <Resource Include="Resources\settings_icon.png" />
+  </ItemGroup>
+
+</Project>

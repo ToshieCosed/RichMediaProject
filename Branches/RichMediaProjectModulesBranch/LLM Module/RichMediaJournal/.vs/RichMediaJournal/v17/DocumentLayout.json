@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC9F147-A102-4548-864D-E88EF1EEA757}|ModuleContract\\ModuleContract.csproj|c:\\users\\iquie\\documents\\richmediaproject\\branches\\richmediaprojectmodulesbranch\\working\\richmediajournal\\modulecontract\\modulecontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EC9F147-A102-4548-864D-E88EF1EEA757}|ModuleContract\\ModuleContract.csproj|solutionrelative:modulecontract\\modulecontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025DFF14-3D4F-4619-856E-5E791AB471AB}|HelloBotExample\\HelloBotExample.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\hellobotexample\\hellobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025DFF14-3D4F-4619-856E-5E791AB471AB}|HelloBotExample\\HelloBotExample.csproj|solutionrelative:hellobotexample\\hellobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCD33EB-C704-46EB-BFEB-7A1CC8BADB86}|ButtonSlashModule\\ButtonSlashModule.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\buttonslashmodule\\buttonslashmodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DCD33EB-C704-46EB-BFEB-7A1CC8BADB86}|ButtonSlashModule\\ButtonSlashModule.csproj|solutionrelative:buttonslashmodule\\buttonslashmodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\richmediajournal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\richmediajournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025DFF14-3D4F-4619-856E-5E791AB471AB}|HelloBotExample\\HelloBotExample.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\hellobotexample\\hellobotexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{025DFF14-3D4F-4619-856E-5E791AB471AB}|HelloBotExample\\HelloBotExample.csproj|solutionrelative:hellobotexample\\hellobotexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCD33EB-C704-46EB-BFEB-7A1CC8BADB86}|ButtonSlashModule\\ButtonSlashModule.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\buttonslashmodule\\buttonslashclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCD33EB-C704-46EB-BFEB-7A1CC8BADB86}|ButtonSlashModule\\ButtonSlashModule.csproj|solutionrelative:buttonslashmodule\\buttonslashclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC9F147-A102-4548-864D-E88EF1EEA757}|ModuleContract\\ModuleContract.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\modulecontract\\imodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC9F147-A102-4548-864D-E88EF1EEA757}|ModuleContract\\ModuleContract.csproj|solutionrelative:modulecontract\\imodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\richmediajournal\\richmediajournal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\richmediajournal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\richmediajournal\\profilesettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\profilesettings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\richmediajournal\\profilesettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\profilesettings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iquie\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\richmediajournal\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\richmediajournal\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9057559-C029-43B6-87BA-0029E133B7A1}|RichMediaJournal\\RichMediaJournal.csproj|solutionrelative:richmediajournal\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelloBotExample.csproj",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\HelloBotExample\\HelloBotExample.csproj",
+              "RelativeDocumentMoniker": "HelloBotExample\\HelloBotExample.csproj",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\HelloBotExample\\HelloBotExample.csproj",
+              "RelativeToolTip": "HelloBotExample\\HelloBotExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T08:37:35.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloBot.cs",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\HelloBotExample\\HelloBot.cs",
+              "RelativeDocumentMoniker": "HelloBotExample\\HelloBot.cs",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\HelloBotExample\\HelloBot.cs",
+              "RelativeToolTip": "HelloBotExample\\HelloBot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:35:43.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonSlashModule.csproj",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\ButtonSlashModule\\ButtonSlashModule.csproj",
+              "RelativeDocumentMoniker": "ButtonSlashModule\\ButtonSlashModule.csproj",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\ButtonSlashModule\\ButtonSlashModule.csproj",
+              "RelativeToolTip": "ButtonSlashModule\\ButtonSlashModule.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T05:21:36.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonSlashClass.cs",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\ButtonSlashModule\\ButtonSlashClass.cs",
+              "RelativeDocumentMoniker": "ButtonSlashModule\\ButtonSlashClass.cs",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\ButtonSlashModule\\ButtonSlashClass.cs",
+              "RelativeToolTip": "ButtonSlashModule\\ButtonSlashClass.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:20:03.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModuleContract.csproj",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\ModuleContract\\ModuleContract.csproj",
+              "RelativeDocumentMoniker": "ModuleContract\\ModuleContract.csproj",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\ModuleContract\\ModuleContract.csproj",
+              "RelativeToolTip": "ModuleContract\\ModuleContract.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T05:17:57.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RichMediaJournal.csproj",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\RichMediaJournal.csproj",
+              "RelativeDocumentMoniker": "RichMediaJournal\\RichMediaJournal.csproj",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\RichMediaJournal.csproj",
+              "RelativeToolTip": "RichMediaJournal\\RichMediaJournal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T05:15:46.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Imodule.cs",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\ModuleContract\\Imodule.cs",
+              "RelativeDocumentMoniker": "ModuleContract\\Imodule.cs",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\ModuleContract\\Imodule.cs",
+              "RelativeToolTip": "ModuleContract\\Imodule.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:14:34.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\iquie\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\iquie\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\83616927926d14a9d63ba91b611a12293ac61079cc74be5d9c8aaec5dc9ed161\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAJABAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:43:45.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileSettings.xaml",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\ProfileSettings.xaml",
+              "RelativeDocumentMoniker": "RichMediaJournal\\ProfileSettings.xaml",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\ProfileSettings.xaml",
+              "RelativeToolTip": "RichMediaJournal\\ProfileSettings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T07:40:13.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RichMediaJournal\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\MainWindow.xaml",
+              "RelativeToolTip": "RichMediaJournal\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T21:50:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RichMediaJournal\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RichMediaJournal\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAkwOAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T00:37:37.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAADsHAAAAAAAAAADwv0oHAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-18T05:16:24.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProfileSettings.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\ProfileSettings.xaml.cs",
+              "RelativeDocumentMoniker": "RichMediaJournal\\ProfileSettings.xaml.cs",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\ProfileSettings.xaml.cs",
+              "RelativeToolTip": "RichMediaJournal\\ProfileSettings.xaml.cs",
+              "ViewState": "AQIAALYBAAAAAAAAAADwv84BAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:08:42.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\App.xaml",
+              "RelativeDocumentMoniker": "RichMediaJournal\\App.xaml",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\App.xaml",
+              "RelativeToolTip": "RichMediaJournal\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-15T00:38:59.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "RichMediaJournal\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\iquie\\Documents\\RichMediaProject\\Branches\\RichMediaProjectModulesBranch\\Working\\RichMediaJournal\\RichMediaJournal\\AssemblyInfo.cs",
+              "RelativeToolTip": "RichMediaJournal\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:22:37.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

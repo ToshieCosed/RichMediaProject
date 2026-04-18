@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RichMediaJournal/1.0.0": {
+        "dependencies": {
+          "ModuleContract": "1.0.0"
+        },
+        "runtime": {
+          "RichMediaJournal.dll": {}
+        }
+      },
+      "ModuleContract/1.0.0": {
+        "runtime": {
+          "ModuleContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RichMediaJournal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModuleContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "MessageString": "Test test test",
+    "MessageTimeStamp": "2025-02-16T14:28:52.3494317-08:00",
+    "MessageSender": "Ember1",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Minor bug fix",
+    "MessageTimeStamp": "2025-02-16T18:39:50.5677358-08:00",
+    "MessageSender": "Kiyara",
+    "MessageSenderUUID": "6b3fbb5a-3ba7-4262-8a3f-7c3ae25a2646",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Test",
+    "MessageTimeStamp": "2025-02-16T18:40:05.4584223-08:00",
+    "MessageSender": "Kiyara",
+    "MessageSenderUUID": "6b3fbb5a-3ba7-4262-8a3f-7c3ae25a2646",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Test",
+    "MessageTimeStamp": "2025-02-16T18:40:10.9231991-08:00",
+    "MessageSender": "Kiyara2",
+    "MessageSenderUUID": "a9d3531d-5df4-4f2e-b4a8-f2c701b62cc4",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Test",
+    "MessageTimeStamp": "2025-02-16T18:40:18.7904575-08:00",
+    "MessageSender": "Ember4",
+    "MessageSenderUUID": "3a8a7cf8-7381-437a-bcf4-068d4c5e988a",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Test",
+    "MessageTimeStamp": "2025-02-16T18:42:40.242847-08:00",
+    "MessageSender": "KiyaraAdjusted",
+    "MessageSenderUUID": "52f4dea6-233c-4c98-acee-a05efd620aa5",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Woof",
+    "MessageTimeStamp": "2025-02-16T18:44:47.3580634-08:00",
+    "MessageSender": "Astra",
+    "MessageSenderUUID": "24a787a1-53bd-4bd8-87f8-05b0cb4f0d4d",
+    "Attachments": []
+  },
+  {
+    "MessageString": "efjsdlkfj",
+    "MessageTimeStamp": "2025-02-16T23:29:15.0908838-08:00",
+    "MessageSender": "Riko2",
+    "MessageSenderUUID": "8cec3c32-3ff6-4f6c-ab3b-abe824f8691c",
+    "Attachments": []
+  },
+  {
+    "MessageString": "lsdjflsdkjf",
+    "MessageTimeStamp": "2025-02-16T23:29:15.8107784-08:00",
+    "MessageSender": "Riko2",
+    "MessageSenderUUID": "8cec3c32-3ff6-4f6c-ab3b-abe824f8691c",
+    "Attachments": []
+  },
+  {
+    "MessageString": "http://www.google.ca",
+    "MessageTimeStamp": "2025-02-17T00:00:36.5833531-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "",
+    "MessageTimeStamp": "2025-02-17T00:00:45.5163972-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "https://img.pokemondb.net/artwork/avif/bulbasaur.avif",
+    "MessageTimeStamp": "2025-02-17T00:01:22.2784541-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Bulbasaur",
+    "MessageTimeStamp": "2025-02-17T00:01:53.4415792-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": [
+      {
+        "OriginalFilename": "a58520a8b86897e148361db6b4ead562.jpg",
+        "LocalCachePath": "Cache\\Notes\\General\\a58520a8b86897e148361db6b4ead562.jpg",
+        "OriginalUri": "https://i.pinimg.com/736x/a5/85/20/a58520a8b86897e148361db6b4ead562.jpg",
+        "IsImage": true
+      }
+    ]
+  },
+  {
+    "MessageString": "Venasaur:",
+    "MessageTimeStamp": "2025-02-17T00:02:18.5568525-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": [
+      {
+        "OriginalFilename": "d5f2f1016776833008ce3031bc2d04a8.jpg",
+        "LocalCachePath": "Cache\\Notes\\General\\d5f2f1016776833008ce3031bc2d04a8.jpg",
+        "OriginalUri": "https://i.pinimg.com/736x/d5/f2/f1/d5f2f1016776833008ce3031bc2d04a8.jpg",
+        "IsImage": true
+      }
+    ]
+  },
+  {
+    "MessageString": "Touhou https://www.youtube.com/watch?v=yzf3fOLkD-Y",
+    "MessageTimeStamp": "2025-02-17T00:04:28.1469334-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "More than 70 people died of methanol poisoning in the Russian city of Irkutsk in December 2016. Caused by the consumption of adulterated surrogate alcohol, it was the deadliest such incident in Russia\u0027s post-Soviet history. Russian consumption of surrogate alcohol rose rapidly in the early 2010s amid worsening economic conditions because they were commonly available and cost less than government-regulated vodka. In the Irkutsk incident, people drank hawthorn-scented bath oil which was typically made with and labeled as containing drinkable ethanol. At least one batch was made instead with a toxic amount of methanol (pictured with ethanol), causing injuries and deaths among residents of Novo-Lenino, a neighborhood in Irkutsk. An investigation found that the surrogate alcohol\u0027s producer sourced the methanol from an employee of a local windshield washer fluid production facility. The Russian government increased punishments for illegally producing and selling alcohol, and they made it more difficult to acquire surrogate alcohol. ",
+    "MessageTimeStamp": "2025-02-17T00:05:28.7892058-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "[Red] **Woof** [ForestGreen] **WOOF** [NeonPink] **WOOF**",
+    "MessageTimeStamp": "2025-02-17T00:06:23.8094763-08:00",
+    "MessageSender": "Ember1",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "**[NeonBlue]More than 70 people died[/NeonBlue]** of methanol poisoning in the Russian city of Irkutsk in **December 2016**. [Red]Caused by the consumption of adulterated surrogate alcohol,[/Red] it was the deadliest such incident in Russia\u0027s post-Soviet history.\r\n\r\n[Green]*Russian consumption*[/Green] of surrogate alcohol rose rapidly in the early 2010s amid worsening economic conditions because it was commonly available and cost less than government-regulated vodka.\r\n\r\nIn the Irkutsk incident, people drank [PastelBlue]hawthorn-scented bath oil[/PastelBlue]\u2014typically made with and labeled as containing drinkable ethanol. At least one batch was made instead with a toxic amount of methanol (pictured with ethanol), causing injuries and deaths among residents of Novo-Lenino, a neighborhood in Irkutsk.\r\n\r\nAn investigation found that the surrogate alcohol\u2019s producer sourced the methanol from an employee at a local windshield washer fluid production facility.\r\n\r\nThe Russian government increased punishments for illegally producing and selling alcohol, and made it more difficult to acquire surrogate alcohol.\r\n",
+    "MessageTimeStamp": "2025-02-17T00:07:31.5675974-08:00",
+    "MessageSender": "Ember1",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "f",
+    "MessageTimeStamp": "2025-02-17T00:18:38.3196111-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "[Red] **F** in chat, dicks out for harambe",
+    "MessageTimeStamp": "2025-02-17T00:24:25.9246605-08:00",
+    "MessageSender": "Ember1",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Testing this",
+    "MessageTimeStamp": "2025-02-17T00:45:00.0519236-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "**yes*",
+    "MessageTimeStamp": "2025-02-17T00:45:02.863557-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Test",
+    "MessageTimeStamp": "2025-02-17T00:45:07.4346712-08:00",
+    "MessageSender": "Kiyara",
+    "MessageSenderUUID": "6b3fbb5a-3ba7-4262-8a3f-7c3ae25a2646",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Test fake naomi here",
+    "MessageTimeStamp": "2025-02-17T00:46:50.1050556-08:00",
+    "MessageSender": "NaomiSilly",
+    "MessageSenderUUID": "50a4b238-fea5-4552-af06-6f8a73d5b6fe",
+    "Attachments": []
+  },
+  {
+    "MessageString": "",
+    "MessageTimeStamp": "2025-02-17T00:47:02.0768515-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": [
+      {
+        "OriginalFilename": "naiomi.png",
+        "LocalCachePath": "C:\\Users\\iquie\\Documents\\important\\Naomi\\naiomi.png",
+        "OriginalUri": "file://C:\\Users\\iquie\\Documents\\important\\Naomi\\naiomi.png",
+        "IsImage": true
+      }
+    ]
+  },
+  {
+    "MessageString": "",
+    "MessageTimeStamp": "2025-02-17T00:47:11.7502094-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": [
+      {
+        "OriginalFilename": "haruhivrc2.png",
+        "LocalCachePath": "C:\\Users\\iquie\\Documents\\important\\Haruhi\\haruhivrc2.png",
+        "OriginalUri": "file://C:\\Users\\iquie\\Documents\\important\\Haruhi\\haruhivrc2.png",
+        "IsImage": true
+      }
+    ]
+  },
+  {
+    "MessageString": "",
+    "MessageTimeStamp": "2025-02-17T00:47:18.8980615-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": [
+      {
+        "OriginalFilename": "haruhivrc.png",
+        "LocalCachePath": "C:\\Users\\iquie\\Documents\\important\\Haruhi\\haruhivrc.png",
+        "OriginalUri": "file://C:\\Users\\iquie\\Documents\\important\\Haruhi\\haruhivrc.png",
+        "IsImage": true
+      }
+    ]
+  },
+  {
+    "MessageString": "",
+    "MessageTimeStamp": "2025-02-17T00:47:24.714704-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": [
+      {
+        "OriginalFilename": "koodoSec.png",
+        "LocalCachePath": "C:\\Users\\iquie\\Documents\\important\\Koodo\\koodoSec.png",
+        "OriginalUri": "file://C:\\Users\\iquie\\Documents\\important\\Koodo\\koodoSec.png",
+        "IsImage": true
+      }
+    ]
+  },
+  {
+    "MessageString": "",
+    "MessageTimeStamp": "2025-02-17T00:47:29.9408378-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": [
+      {
+        "OriginalFilename": "56cca437adb6a11dd88c99dcfe9ad7e1--bunny-girls-cartoon-girls.jpg",
+        "LocalCachePath": "C:\\Users\\iquie\\Documents\\important\\56cca437adb6a11dd88c99dcfe9ad7e1--bunny-girls-cartoon-girls.jpg",
+        "OriginalUri": "file://C:\\Users\\iquie\\Documents\\important\\56cca437adb6a11dd88c99dcfe9ad7e1--bunny-girls-cartoon-girls.jpg",
+        "IsImage": true
+      }
+    ]
+  },
+  {
+    "MessageString": "",
+    "MessageTimeStamp": "2025-02-17T00:47:33.1248512-08:00",
+    "MessageSender": "User",
+    "MessageSenderUUID": "00000000-0000-0000-0000-000000000000",
+    "Attachments": [
+      {
+        "OriginalFilename": "banner3.png",
+        "LocalCachePath": "C:\\Users\\iquie\\Documents\\important\\banner3.png",
+        "OriginalUri": "file://C:\\Users\\iquie\\Documents\\important\\banner3.png",
+        "IsImage": true
+      }
+    ]
+  },
+  {
+    "MessageString": "test",
+    "MessageTimeStamp": "2025-02-17T01:06:04.3963733-08:00",
+    "MessageSender": "NaomiSilly",
+    "MessageSenderUUID": "50a4b238-fea5-4552-af06-6f8a73d5b6fe",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Beep boop",
+    "MessageTimeStamp": "2025-02-17T01:09:45.8550138-08:00",
+    "MessageSender": "SillyNaomi2",
+    "MessageSenderUUID": "50a4b238-fea5-4552-af06-6f8a73d5b6fe",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Test",
+    "MessageTimeStamp": "2025-02-17T01:12:50.1718949-08:00",
+    "MessageSender": "Ember4",
+    "MessageSenderUUID": "3a8a7cf8-7381-437a-bcf4-068d4c5e988a",
+    "Attachments": []
+  },
+  {
+    "MessageString": "test",
+    "MessageTimeStamp": "2025-02-17T01:13:06.4550836-08:00",
+    "MessageSender": "Ember4",
+    "MessageSenderUUID": "3a8a7cf8-7381-437a-bcf4-068d4c5e988a",
+    "Attachments": []
+  },
+  {
+    "MessageString": "didn\u0027t update",
+    "MessageTimeStamp": "2025-02-17T01:13:11.3241938-08:00",
+    "MessageSender": "Ember4",
+    "MessageSenderUUID": "3a8a7cf8-7381-437a-bcf4-068d4c5e988a",
+    "Attachments": []
+  },
+  {
+    "MessageString": "weird",
+    "MessageTimeStamp": "2025-02-17T01:13:16.8101757-08:00",
+    "MessageSender": "Ember4",
+    "MessageSenderUUID": "3a8a7cf8-7381-437a-bcf4-068d4c5e988a",
+    "Attachments": []
+  },
+  {
+    "MessageString": "Test",
+    "MessageTimeStamp": "2025-02-17T01:17:29.4972086-08:00",
+    "MessageSender": "FoxGirlAstra",
+    "MessageSenderUUID": "24a787a1-53bd-4bd8-87f8-05b0cb4f0d4d",
+    "Attachments": []
+  }
+]
